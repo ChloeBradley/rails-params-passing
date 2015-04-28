@@ -49,3 +49,4 @@
 
 * http://guides.rubyonrails.org/action_controller_overview.html#parameters
 * http://guides.rubyonrails.org/form_helpers.html#understanding-parameter-naming-conventions
+# rails-params-passing
